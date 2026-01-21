@@ -46,7 +46,7 @@ Puede usar esta librería directamente desde GitHub usando JitPack. Añade esto 
 <dependency>
     <groupId>com.github.Johao-dev</groupId>
     <artifactId>jsend4j</artifactId>
-    <version>1.0.0</version>
+    <version>1.0.1</version>
 </dependency>
 ```
 
@@ -66,7 +66,7 @@ Luego agregála a tu proyecto como cualquier dependencia normal:
 <dependency>
     <groupId>zuzz.projects</groupId>
     <artifactId>jsend4j</artifactId>
-    <version>1.0.0</version>
+    <version>1.0.1</version>
 </dependency>
 ```
 
