@@ -7,7 +7,7 @@ package zuzz.projects.jsend4j;
  * without exposing the underlying implementation classes.
  * </p>
  *
- * @author ZuzzDev
+ * @author Johao-dev
  * @version 1.0.0
  */
 public class JSend {
