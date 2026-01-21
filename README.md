@@ -1,3 +1,5 @@
+[![](https://jitpack.io/v/Johao-dev/jsend4j.svg)](https://jitpack.io/#Johao-dev/jsend4j)
+
 # JSend4j
 
 **JSend4j** es una biblioteca Java ligera, tipada y fácil de usar para implementar la especificación
